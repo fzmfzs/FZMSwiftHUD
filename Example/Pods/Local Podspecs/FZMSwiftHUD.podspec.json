@@ -1,0 +1,27 @@
+{
+  "name": "FZMSwiftHUD",
+  "version": "0.1.0",
+  "summary": "fzmfzs SwiftHUD",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fzmfzs/FZMSwiftHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuzhimin": "15184467065@163.com"
+  },
+  "source": {
+    "git": "https://github.com/fzmfzs/FZMSwiftHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FZMSwiftHUD/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}
