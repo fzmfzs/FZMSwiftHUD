@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FZMSwiftHUD_Example' do
+  pod 'FZMSwiftHUD', :path => '../'
+
+  target 'FZMSwiftHUD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
